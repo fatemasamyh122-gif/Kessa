@@ -1,0 +1,40 @@
+{
+  "stories": [
+    {
+      "folder": "sick_lion",
+      "language": "masri"
+    },
+    {
+      "folder": "sick_lion_msa",
+      "language": "msa"
+    },
+    {
+      "folder": "woodcutter",
+      "language": "masri"
+    },
+    {
+      "folder": "woodcutter_msa",
+      "language": "msa"
+    },
+    {
+      "folder": "sick_lion_en",
+      "language": "en"
+    },
+    {
+      "folder": "woodcutter_en",
+      "language": "en"
+    },
+    {
+      "folder": "little_mouse_msa",
+      "language": "msa"
+    },
+    {
+      "folder": "little_mouse_en",
+      "language": "en"
+    },
+    {
+      "folder": "little_mouse",
+      "language": "masri"
+    }
+  ]
+}
