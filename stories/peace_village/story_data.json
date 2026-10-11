@@ -1,0 +1,190 @@
+{
+  "story_id": "winter_cold_in_peace_village_02",
+  "language": "masri",
+  "title_ar": "سر الشتاء القارس في قرية السلام",
+  "moral_ar": "المسؤولية الجماعية، العواقب، وحل المشاكل بالتعاون بدل العناد.",
+  "glossary": [
+    {
+      "emoji": "⚙️",
+      "word": "الساقية",
+      "meaning": "آلة خشبية قديمة بتلف عشان تطلع المية من البئر أو النهر وتسقي الزرع."
+    },
+    {
+      "emoji": "🛑",
+      "word": "العناد المتوارث",
+      "meaning": "الإصرار على رأي غلط بسبب خلافات قديمة من غير ما حد يفكر في مصلحة بكرة."
+    },
+    {
+      "emoji": "🌾",
+      "word": "المحاصيل",
+      "meaning": "الزرع والثمار اللي الفلاح بيزرعها ويحصدها في أرضه."
+    },
+    {
+      "emoji": "🤝",
+      "word": "التعاون",
+      "meaning": "إن الناس تقف مع بعضها وتساعد بعض عشان يحلوا مشاكلهم."
+    },
+    {
+      "emoji": "❄️",
+      "word": "الشتاء القارس",
+      "meaning": "البرد الشديد وصعوبة الجو اللي بتيجي في فصل الشتاء."
+    }
+  ],
+  "cover_prompt": "Stylized 3D cinematic animated film aesthetic, rich concept art, dramatic lighting, a dry valley village surrounded by dark jagged mountains, a 13-year-old teenage boy with a leather satchel looking out over cracked earth, vibrant yet moody color palette, highly detailed, high quality.",
+  "cover_image": "cover.jpg",
+  "main_story": [
+    {
+      "scene_num": 1,
+      "text_ar": "بين جبال عالية لوحدها، كانت فيه \"قرية السلام\"، بس الحقيقي إنها كانت عكس اسمها خالص؛ أرض ناشفة ومتشققة، وخلافات قديمة فرقت بين جيرانها التلاتة. الفتى طارق (١٣ سنة) كان واقف يراقب بيوت القرية بقلق، ومقتنع إن الجفاف ده مش من السماء، ده بسبب القلوب المقفلة.",
+      "image_filename": "scene_1.jpg",
+      "image_prompt": "Stylized 3D cinematic concept art, a 13-year-old Arab teenage boy with a thoughtful expression looking down at a dry cracked valley village, dramatic sunlight, high detail, animation visual development style."
+    },
+    {
+      "scene_num": 2,
+      "text_ar": "وصل الشيخ الحكيم صالح للقرية قبل ما الجو يبرد خالص. طارق راح معاه لمزارع اسمه حمدان، اللي كان واقف يائس قدام أرضه الناشفة. صرخ حمدان بغضب وقاله: \"كيف أزرع وساقية الجار سمعان باظت من شهور ورافض يصلحها؟\"",
+      "image_filename": "scene_2.jpg",
+      "image_prompt": "Stylized 3D cinematic visual, a wise old traveler with a staff and a 13-year-old teenage boy talking to a frustrated farmer beside a withered field, late afternoon golden light, atmospheric shadows, animation film style."
+    },
+    {
+      "scene_num": 3,
+      "text_ar": "طارق والشيخ راحوا لسمعان جنب الساقية الخشبية القديمة. قالهم سمعان بمرارة: \"الساقية محتاجة قطعة خشب جديدة وبقرة قوية تدورها. عوّاد عنده البقرة الوحيدة في القرية، بس رافض يخرجها خايف عليها!\"",
+      "image_filename": "scene_3.jpg",
+      "image_prompt": "Stylized 3D cinematic art, a massive old broken wooden waterwheel beside a dry creek bed, a solemn craftsman explaining his problem to a teen boy and an old traveler, rich cinematic depth."
+    },
+    {
+      "scene_num": 4,
+      "text_ar": "قابل طارق الجار عوّاد وهو حاضن البقرة بتاعته بحذر شديد. اعترف عوّاد بقلق: \"البقرة دي هي كل اللي باقي لي من مزرعة أبويا. لو تعبت واشتغلت جامد، هخسر كل حاجة!\" طارق حس إن الخوف والشك هما السبب الحقيقي وراء المشكلة دي كلها.",
+      "image_filename": "scene_4.jpg",
+      "image_prompt": "Stylized 3D animation style, a cautious farmer standing protective next to his healthy cow, talking to an empathetic 13-year-old boy, detailed rustic barn setting, warm key lighting."
+    },
+    {
+      "scene_num": 5,
+      "text_ar": "جمع طارق والشيخ صالح الرجالة التلاتة تحت شجرة ناشفة في وسط القرية. الشيخ حط خطة مع بعض وكل واحد يتنازل شوية عشان المية ترجع تجري تاني. الكل وافق بظنهم عشان ما يتحرجوش قدام بعض.",
+      "image_filename": "scene_5.jpg",
+      "image_prompt": "Stylized 3D concept art, three stubborn men standing in a tense circle under a gnarled barren tree, a teen boy and an elder mediating, tense atmosphere, cinematic lighting."
+    },
+    {
+      "scene_num": 6,
+      "text_ar": "ولما جه وقت الشغل، كل الوعود طارت في الهوا. عوّاد طلب نص محاصيل حمدان قصاد إنه يشغل بقيرته، وسمعان قعد يطلع اتهامات قديمة، وحمدان رفض يشارك أرضه. الاجتماع خلص بصراخ وخناقة أكبر من الأول.",
+      "image_filename": "scene_6.jpg",
+      "image_prompt": "Stylized 3D cinematic illustration, three men shouting angrily at each other in the village square, intense emotional dynamic expressions, harsh moody sunlight, feature animation quality."
+    },
+    {
+      "scene_num": 7,
+      "text_ar": "الشتاء الصعب ضرب القرية وفاجئهم بثلج وبرد شديد. حمدان حاول يحفر بئر لوحده فتعب وجاله إرهاق شديد، وبقرة عوّاد ضعفت عشان مافيش أكل كويس، والساقية اتكسرت حتت تحت البرد القارس.",
+      "image_filename": "scene_7.jpg",
+      "image_prompt": "Stylized 3D cinematic scene, a desolate winter frost over a dark abandoned village, broken waterwheel covered in ice, cold blue moody tone, dramatic storytelling visual."
+    },
+    {
+      "scene_num": 8,
+      "text_ar": "وقف طارق فوق التلة يبص على بيوت القرية اللي مبقاش فيها حياة. الكل فهم متأخر إن العناد وحماية المصلحة الشخصية ما حموش حد، بالعكس، ضيعوهم قدام الشتاء القاسي.",
+      "image_filename": "scene_8.jpg",
+      "image_prompt": "Stylized 3D animation concept art, a 13-year-old boy looking out over a gloomy, snow-covered abandoned village, reflective mood, twilight atmosphere, high quality visual dynamic."
+    }
+  ],
+  "time_travel": {
+    "question_ar": "تخيل لو نرجع بآلة الزمن للحظة الاجتماع تحت الشجرة الناشفة؟ إزاي مبادرة شجاعة من حد فيهم كانت هتغير الموقف الصعب ده؟",
+    "alternate_story": [
+      {
+        "scene_num": 1,
+        "text_ar": "تدخل طارق وعرض إنه بنفسه يتابع بقرة عوّاد ويخلي باله منها طول ما هي بتشغل الساقية. قلب عوّاد اطمأن، وقرر ياخد الخطوة الأولى ويشغل البقرة من غير شروط صعبة.",
+        "image_filename": "alt_scene_1.jpg",
+        "image_prompt": "Stylized 3D cinematic visual, a teen boy leading a healthy cow toward an old waterwheel, farmer smiling with relief, warm sunlight breaking through clouds."
+      },
+      {
+        "scene_num": 2,
+        "text_ar": "موقف عوّاد الجميل خلى الجار سمعان يرد بالمثل؛ فاعتذر إنه اتأخر وبسرعة صلح الساقية بخشبه الخاص، وطارق وحمدان ساعدوه في أعمال الصيانة والتصليح.",
+        "image_filename": "alt_scene_2.jpg",
+        "image_prompt": "Stylized 3D feature animation render, men and a teenage boy working together constructively around a turning wooden waterwheel, splashes of water, energetic and warm tone."
+      },
+      {
+        "scene_num": 3,
+        "text_ar": "المية رجعت جرت في الأراضي. حمدان فتح خطوط الري لكل الناس، ولما الشتاء جه، كانت القرية خزنت محاصيل وأكل يكفيها، وبقيت أحسن مثال للتعاون والعمل الجماعي.",
+        "image_filename": "alt_scene_3.jpg",
+        "image_prompt": "Stylized 3D cinematic scene, a vibrant green village surrounded by flowing water channels and lush fields, community working happily under a bright sky, beautiful lighting."
+      }
+    ]
+  },
+  "post_activities": [
+    {
+      "activity_type": "connect_balls",
+      "title_ar": "توصيل الكرات بالأهداف",
+      "instructions_ar": "وصل كل شخصية بالكرة اللي فيها هدفها جوه القصة.",
+      "content": {
+        "pairs": [
+          {
+            "character_image": "scene_2.jpg",
+            "character_emoji": "👨‍🌾",
+            "goal_emoji": "🌾",
+            "goal_label_ar": "زراعة أرضه"
+          },
+          {
+            "character_image": "scene_3.jpg",
+            "character_emoji": "🛠️",
+            "goal_emoji": "⚙️",
+            "goal_label_ar": "إصلاح الساقية"
+          },
+          {
+            "character_image": "scene_4.jpg",
+            "character_emoji": "🐄",
+            "goal_emoji": "🛡️",
+            "goal_label_ar": "حماية بقرته"
+          },
+          {
+            "character_image": "scene_1.jpg",
+            "character_emoji": "👦",
+            "goal_emoji": "🤝",
+            "goal_label_ar": "توحيد الجيران"
+          }
+        ]
+      }
+    },
+    {
+      "activity_type": "drag_drop",
+      "title_ar": "فرز التصرفات",
+      "instructions_ar": "صنف السلوكيات دي حسب تأثيرها في القصة.",
+      "content": {
+        "targets": [
+          "تساعد القرية",
+          "تضر القرية"
+        ],
+        "items": [
+          { "label": "مشاركة البقرة", "target": "تساعد القرية" },
+          { "label": "إصلاح الساقية", "target": "تساعد القرية" },
+          { "label": "التنازل المتوازن", "target": "تساعد القرية" },
+          { "label": "العناد والرفض", "target": "تضر القرية" },
+          { "label": "تبادل الاتهامات", "target": "تضر القرية" },
+          { "label": "حماية المصلحة الفردية", "target": "تضر القرية" }
+        ]
+      }
+    },
+    {
+      "activity_type": "word_search",
+      "title_ar": "شبكة الكلمات المخفية",
+      "instructions_ar": "دور على الكلمات المرتبطة بأحداث وشخصيات القصة.",
+      "content": {
+        "size": 6,
+        "words": [
+          { "word": "طارق", "clue_ar": "الفتى الذكي" },
+          { "word": "صالح", "clue_ar": "الشيخ الحكيم" },
+          { "word": "حمدان", "clue_ar": "المزارع اليائس" },
+          { "word": "سمعان", "clue_ar": "صاحب الساقية" }
+        ]
+      }
+    },
+    {
+      "activity_type": "jigsaw_puzzle",
+      "title_ar": "لغز القرية",
+      "instructions_ar": "ركب قطع الصورة عشان تكتشف مشهد أول القصة.",
+      "content": {
+        "image": "scene_1.jpg",
+        "pieces": 4
+      }
+    }
+  ],
+  "wisdom_keepsake": {
+    "quote_ar": "القيادة الحقيقية مش محتاجة سن كبير، دي بتبدأ بخطوة شجاعة تكسر الخوف وتفتح باب الثقة بين الناس.",
+    "image_filename": "wisdom_keepsake.jpg",
+    "image_prompt": "Stylized 3D cinematic wallpaper, a young 13-year-old boy standing proudly near a flowing clear stream under a flourishing green tree holding a warm glowing lantern, breathtaking lighting and composition."
+  }
+}
