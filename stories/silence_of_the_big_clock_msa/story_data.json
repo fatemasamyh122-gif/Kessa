@@ -1,0 +1,230 @@
+{
+  "story_id": "silence_of_the_big_clock",
+  "age_group": "young_adult_13_15",
+  "title_ar": "صمت الساعة الكبيرة",
+  "cover_image": "cover.jpg",
+  "cover_image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow, stands on an old Cairo-style rooftop at dusk holding a glowing phone, his face lit cold blue. Far below, a warm amber workshop window glows in the alley. Wide cinematic composition, deep teal and amber contrast, quiet melancholic mood.",
+  "moral_ar": "قد لا ندرك قيمة ما بين أيدينا إلا حين يصمت المكان الذي كان يضجّ به، وربما كان ما نشتهيه أخفّ وزنًا مما نملكه.",
+  "glossary": [
+    {
+      "word": "الحنين",
+      "emoji": "💭",
+      "meaning": "شعور القلب بالتعلّق بشيء أو بزمن أو بمكان والرغبة في العودة إليه",
+      "example": "هل يُعدّ الحنين إلى لمعانه ضعفًا، أم أن الفضيلة أن تعطي ما تحب؟"
+    },
+    {
+      "word": "الإتقان",
+      "emoji": "🛠️",
+      "meaning": "إجادة العمل وإتمامه على أحسن وجه بصبر ودقّة",
+      "example": "تعلم أيضًا أن الإتقان لا يلمع من أول يوم."
+    },
+    {
+      "word": "مذهولًا",
+      "emoji": "😲",
+      "meaning": "شديد الدهشة حتى يعجز عن الكلام أو الحركة",
+      "example": "في ليلة من الليالي نزل يوسف أخيرًا إلى الورشة، ووقف عند الباب مذهولًا وهاتفه ما زال في يده."
+    },
+    {
+      "word": "التزامات",
+      "emoji": "📋",
+      "meaning": "واجبات ومسؤوليات يجب على الإنسان أن يفي بها",
+      "example": "تنهّد فؤاد: «أنا أيضًا عندي التزاماتي، لست عدوًّا لك»."
+    },
+    {
+      "word": "يلتمس",
+      "emoji": "🙏",
+      "meaning": "يطلب شيئًا بتواضع ورجاء",
+      "example": "نظر إلى كريم يلتمس منه ولو كلمة، فاكتفى كريم بابتسامة حائرة ونظر إلى شاشته."
+    }
+  ],
+  "main_story": [
+    {
+      "text_ar": "كان يوسف يعرف شاشة هاتفه المشروخة كما يعرف خطوط كفّه. في الصباح، وقف في ساحة المدرسة ينظر إلى هاتف كريم الجديد، الأنيق الرقيق الذي يلمع تحت الشمس كأنه وعد. ضحك كريم وقال: «ما زلتَ تحمل هذه القطعة الأثرية؟». ابتسم يوسف ابتسامة لا تشبه ابتسامته، وقال لنفسه إن الحياة تبدأ حقًا حين يملك المرء مثل هذا الجهاز. ولم يسأل نفسه يومًا: ما الذي تبدأه الحياة بدقّة؟ وعاد إلى البيت مثقلًا بما لا يملك، لا بما يحمله في حقيبته.",
+      "image_filename": "scene_1.jpg",
+      "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. A school yard in morning sun. Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow, holds an old phone with a cracked screen and looks at a sleek new phone in the hand of Karim, a 14-year-old tall boy with neatly gelled light-brown hair, wearing a crisp white jacket over a black t-shirt and clean white sneakers, with a thin silver chain. Karim smirks lightly. Soft warm light, muted colours."
+    },
+    {
+      "text_ar": "في الحيّ القديم، تحت بيتهم، ورشة جدّه الحاج سالم لإصلاح الساعات، رائحتها زيت ونحاس وشاي بالنعناع. كان يوسف يجلس هناك كل مساء ليناول جدّه الأدوات الدقيقة ويسمع حكاياته. أما اليوم فمرّ أمام الباب مسرعًا، وأذناه مشغولتان بالفيديوهات التي يتفرّج عليها. رفع الجدّ رأسه من خلف نظّارته السميكة ونادى: «الشاي بارد يا يوسف». أجاب الولد: «بعد قليل يا جدّي»، وهو يعلم أن «بعد قليل» لن تأتي. وعاد الجدّ إلى ساعة متوقفة، يصغي إلى صمتها بصبر، كأن الصبر مهنته الأولى.",
+      "image_filename": "scene_2.jpg",
+      "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. Evening in an old Cairo alley. Through the open door of a cramped clock-repair workshop with brass gears and wall clocks, Hajj Salem, a 70-year-old Egyptian man with a short white beard, thick round brown-framed glasses, small stooped frame, wearing a beige cotton galabeya and a brown knitted vest, with a brass pocket-watch chain at his waist, looks up from his workbench beside a glass of cooling tea. Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow, walks past the doorway looking down at his phone. Warm amber light from inside, cool blue dusk outside."
+    },
+    {
+      "text_ar": "عاد عادل، أبو يوسف، من وردية طويلة على الحافلة، وجلس يعدّ نقودًا في ظرف قديم. لاحظ يوسف أن الظرف يزداد سمكًا منذ شهرين، وأن أباه يتناول غداءه في البيت بدل المطعم، ويرفض ورديات الراحة. سأله مرتبكًا: «هل هذا من أجلي؟». رفع أبوه عينيه المتعبتين وقال: «يوم ميلادك بعد أسبوعين، ولا أحب أن يكبر ابني وهو ينظر إلى أيدي الآخرين». شعر يوسف بفرحة سريعة، وبشيء آخر ثقيل، كحجر صغير في الحذاء، لم يستطع تسميته فدفنه تحت الفرحة.",
+      "image_filename": "scene_3.jpg",
+      "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. A modest apartment kitchen at night under a single warm lamp. Adel, a 42-year-old stocky Egyptian man with short black hair greying at the temples and a thick moustache, wearing a dark green bus-driver uniform shirt with rolled sleeves, with tired kind eyes, sits at the table counting worn banknotes from a thick old envelope. Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow, stands in the doorway with a conflicted expression. Soft shadows, intimate mood."
+    },
+    {
+      "text_ar": "في المساء جاء الأستاذ فؤاد، مالك العقار، بحذائه اللامع وحلقة مفاتيحه الرنّانة. جلس في الورشة على كرسي لم يدعه أحد إليه، وقال بهدوء من اعتاد الأرقام: «هناك من يعرض ضعف إيجار الورشة يا حاج سالم، فإما أن تدفع مثله أو تُخليها نهاية الشهر». لم يرفع الجدّ صوته: «وماذا أفعل بالساعات؟». تنهّد فؤاد: «أنا أيضًا عندي التزاماتي، لست عدوًّا لك». من خلف الباب سمع يوسف كل كلمة، وتذكّر الظرف السميك في غرفة أبيه، ثم صعد مسرعًا قبل أن تكتمل الفكرة.",
+      "image_filename": "scene_4.jpg",
+      "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. Inside the clock workshop at evening. Mr. Fouad, a 55-year-old man with a bald head and grey hair at the sides, round belly, wearing a charcoal suit jacket with a loosened tie, holding a ring of keys, sits on a chair speaking calmly. Hajj Salem, a 70-year-old Egyptian man with a short white beard, thick round brown-framed glasses, small stooped frame, wearing a beige cotton galabeya and a brown knitted vest, with a brass pocket-watch chain at his waist, stands quietly beside his workbench. In the doorway gap, half hidden, Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow, listens with worried eyes. Dim amber light, long shadows."
+    },
+    {
+      "text_ar": "في يوم ميلاده وضع أبوه العلبة البيضاء على الطاولة وكأنه يسلّم أمانة. فتحها يوسف فوجد الهاتف الذي حلم به شهورًا، باردًا ولامعًا بلا خدش. وضحك الجيران في الشرفة وتقاسموا الحلوى. احتضن أبوه كتفيه وقال: «كل عام وأنت بخير». أراد يوسف أن يسأل عن الظرف وعن الإيجار، لكن الكلمات علقت في حلقه كشوكة. قال بدل ذلك: «شكرًا يا بابا»، ورأى في عيني أبيه فرحة صافية، فلم يجد في نفسه الشجاعة ليفسدها. وهكذا أخذ ما أراد، وسكت.",
+      "image_filename": "scene_5.jpg",
+      "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. A small living room in warm evening light. Adel, a 42-year-old stocky Egyptian man with short black hair greying at the temples and a thick moustache, wearing a dark green bus-driver uniform shirt with rolled sleeves, with tired kind eyes, rests a hand on the shoulder of Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow. Yousef holds an open white box with a sleek phone inside, smiling stiffly while his eyes look troubled. Sweets on a tray, blurred neighbours in the background."
+    },
+    {
+      "text_ar": "في الأسابيع التالية غرق يوسف في شاشته. صار يقارن عدد المتابعين، ولون الغرف في بيوت المشاهير، وأحدث طراز يظهر بعد طرازه بشهر واحد. اكتشف أن الهاتف الذي اشتهاه لم يطفئ شهوته، بل أيقظ قائمة جديدة من الرغبات. وفي الأسفل كان الشاي يبرد كل مساء على مقعد فارغ بجوار طاولة العمل. جاءه كريم يومًا وقال بصراحة غير متوقعة: «عندي كل شيء، وأشعر أني لا أملك شيئًا». ضحك يوسف ظنًّا أنه يمزح، لكن الضحكة سقطت بينهما ولم يلتقطها أحد.",
+      "image_filename": "scene_6.jpg",
+      "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. School steps at grey late afternoon. Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow, sits glued to a sleek phone whose cold light shines on his face. Beside him Karim, a 14-year-old tall boy with neatly gelled light-brown hair, wearing a crisp white jacket over a black t-shirt and clean white sneakers, with a thin silver chain, stares into the distance with a lonely, empty expression. Muted desaturated colours, a sense of distance between the two boys."
+    },
+    {
+      "text_ar": "في ليلة من الليالي نزل يوسف أخيرًا إلى الورشة، ووقف عند الباب مذهولًا وهاتفه ما زال في يده. كانت الجدران نصف عارية، والصناديق مكدّسة، وطاولة العمل التي حفظها عن ظهر قلب خالية من نصف أدواتها. والأغرب أن ساعة الحائط الكبيرة، التي ظلّت تدقّ طوال عمره، اختفت وبقي مسمارها وحيدًا. قال الجدّ دون عتاب: «بعتُ بعضها لأسدّد الشهر القادم». كان الصمت في المكان أعلى من أي صوت، وأدرك يوسف أنه لم يكن يسمع التكتكة إلا الآن، بعد أن غابت.",
+      "image_filename": "scene_7.jpg",
+      "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. The clock workshop at night, half emptied: cardboard boxes stacked, bare shelves, a single lonely nail on the wall where a big clock once hung. Hajj Salem, a 70-year-old Egyptian man with a short white beard, thick round brown-framed glasses, small stooped frame, wearing a beige cotton galabeya and a brown knitted vest, with a brass pocket-watch chain at his waist, sits calmly at a half-bare workbench. Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow, stands frozen at the door, phone dangling in his hand. Heavy silence, dim lamp light, pale dust in the air."
+    },
+    {
+      "text_ar": "قضى يوسف الليل مستيقظًا والعلبة البيضاء على صدره. يمكنه إعادة الهاتف خلال أيام، فيعود المال وتبقى الورشة شهورًا لا أكثر. لكن أباه سيرى في ذلك رفضًا لهديته، وكريم سيضحك، والجميع سيعرفون أنه تراجع. ثم إنه يحب الهاتف، وهذا أصعب ما في الأمر: لم يكن يتخلى عن شيء سيّئ، بل عن شيء أحبّه. تساءل: هل يُعدّ الحنين إلى لمعانه ضعفًا، أم أن الفضيلة أن تعطي ما تحب؟ لم يجد جوابًا، فنهض مع الفجر تحت ضوء رمادي ويداه ترتجفان.",
+      "image_filename": "scene_8.jpg",
+      "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. A small bedroom at first grey dawn light through a window. Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow, lies awake on his bed with a closed white box resting on his chest, staring at the ceiling, torn and exhausted. Cool blue-grey palette with a thin line of warm light on the wall."
+    },
+    {
+      "text_ar": "نزل يوسف إلى الورشة والعلبة بين يديه، وكان أبوه هناك يشرب الشاي. قال بصوت لم يعرفه: «أريد أن أُرجع الهاتف». تجمّد وجه عادل كمن تلقّى صفعة بلا يد، وقال: «شقيتُ من أجله شهورًا». «أعرف يا بابا، ولهذا أقولها». صمت الجميع، ووضع عادل كوبه ببطء، ثم قال الجدّ بصرامته الهادئة: «لن أعيش على ثمن لعبة ولد يحبها». ابتسم يوسف بارتباك: «ليست صدقة يا جدّي، إنها أجرة متدرّب تأخّر عن عمله كثيرًا، وأريد أن أتعلم المهنة قبل أن تنساها الأيدي».",
+      "image_filename": "scene_9.jpg",
+      "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. Inside the half-emptied clock workshop in early morning light. Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow, holds out a white box with both hands, shaky but determined. Adel, a 42-year-old stocky Egyptian man with short black hair greying at the temples and a thick moustache, wearing a dark green bus-driver uniform shirt with rolled sleeves, with tired kind eyes, sets down a tea glass, his face hurt and still. Hajj Salem, a 70-year-old Egyptian man with a short white beard, thick round brown-framed glasses, small stooped frame, wearing a beige cotton galabeya and a brown knitted vest, with a brass pocket-watch chain at his waist, looks at Yousef sternly over his glasses. Tense, quiet atmosphere."
+    },
+    {
+      "text_ar": "أعاد عادل الهاتف بنفسه، ويوسف إلى جانبه، وكلاهما صامت في الحافلة. لم يقل الأب إنه فخور، بل أمسك كتف ابنه ضاغطًا عليه مرتين فقط، وكان ذلك أبلغ. أما في المدرسة فكان الثمن أسرع من الفرح: انتشر الخبر، وقال أحدهم ساخرًا إن يوسف «عاد إلى عصر الحجارة». نظر إلى كريم يلتمس منه ولو كلمة، فاكتفى كريم بابتسامة حائرة ونظر إلى شاشته. وفي الطريق إلى البيت لم يشعر بالبطولة التي تخيّلها. شعر أنه خسر شيئًا حقيقيًّا مقابل شيء لا يراه أحد.",
+      "image_filename": "scene_10.jpg",
+      "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. Inside an old city bus in late afternoon light. Adel, a 42-year-old stocky Egyptian man with short black hair greying at the temples and a thick moustache, wearing a dark green bus-driver uniform shirt with rolled sleeves, with tired kind eyes, sits beside Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow. Adel presses a hand firmly on Yousef’s shoulder while both look out of the window in silence; Yousef’s eyes show mixed loss and quiet relief. Golden-grey light through dusty glass, melancholic mood."
+    },
+    {
+      "text_ar": "مرّت ثلاثة أشهر. لم تُنقذ الورشة بالكامل، فقد انتقلت إلى نصف مساحتها، وقبل الأستاذ فؤاد، بعد جدال طويل، بزيادة أقل من الضعف مقابل أن يُصلح الحاج سالم ساعات مكتبه القديمة. صار يوسف ينزل كل مساء بعد المدرسة، يتعلّم أن يفتح الساعة دون أن يخدشها، وأن يصبر على برغيّ لا يريد أن يدور. تعلم أيضًا أن الإتقان لا يلمع من أول يوم. وفي الحائط علّق الجدّ ساعة صغيرة بدل الكبيرة، تدقّ بصوت خافت. وكان الجدّ، حين يخطئ يوسف، يقول فقط: «مرة أخرى».",
+      "image_filename": "scene_11.jpg",
+      "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. A smaller, tidy clock workshop in warm lamp light, a small clock hanging on the wall. Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow, leans over the bench carefully opening a pocket watch with fine tweezers, concentrating. Hajj Salem, a 70-year-old Egyptian man with a short white beard, thick round brown-framed glasses, small stooped frame, wearing a beige cotton galabeya and a brown knitted vest, with a brass pocket-watch chain at his waist, watches beside him with a patient faint smile. A glass of mint tea steams on the bench. Warm, hopeful but modest mood."
+    },
+    {
+      "text_ar": "في مساء بارد جاء كريم إلى الورشة وحده، بلا سترته البيضاء ولا ضحكته الواثقة. وقف عند العتبة متردّدًا وعيناه تتجنبان النظر، وقال: «أبي مسافر أكثر الأيام، وبيتنا واسع كمتحف». سكت ثم أضاف: «سمعتُ أن هنا شايًا بالنعناع». ناوله يوسف الكوب دون تعليق، ووضع أمامه ساعة معطّلة وملقطًا صغيرًا. لم يصبحا صديقين كما كانا ولا غريبين تمامًا؛ صارا شيئًا بين الاثنين، وكان ذلك كافيًا ليدرك يوسف أن كل واحد يشتهي ما لا يعرف أنه في يده.",
+      "image_filename": "scene_12.jpg",
+      "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. Cold evening, the workshop door open with warm light spilling out. Karim, a 14-year-old tall boy with neatly gelled light-brown hair, wearing a crisp white jacket over a black t-shirt and clean white sneakers, with a thin silver chain, stands hesitantly at the threshold looking unsure. Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow, hands him a glass of tea and places a broken clock and small tweezers on the bench. In the background Hajj Salem, a 70-year-old Egyptian man with a short white beard, thick round brown-framed glasses, small stooped frame, wearing a beige cotton galabeya and a brown knitted vest, with a brass pocket-watch chain at his waist, glances up quietly."
+    },
+    {
+      "text_ar": "في ليلة هادئة، جلس يوسف على سطح البيت ومعه هاتفه القديم بشاشته المشروخة. لم يتغيّر شيء فيه، لكنه رآه الآن جهازًا يؤدي عمله لا قائمة نقص. مرّ في رأسه اسم الطراز الجديد، فابتسم له دون أن يلحق به. ما زال يشتهي أشياء؛ فهذه طبيعة القلب، لكنه صار يعدّ ما بين يديه قبل أن يعدّ ما ينقصه. من الورشة تحته صعد صوت التكتكة، رتيبًا ودافئًا، فأصغى إليه ما استطاع، كما يصغي من عرف قيمة الصوت بعد أن فقده يومًا.",
+      "image_filename": "scene_13.jpg",
+      "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. A quiet rooftop at night with city lights in the distance. Yousef, a 14-year-old Egyptian boy with short black wavy hair, slim build, wearing a faded navy-blue hoodie and grey jeans, with a small scar on his left eyebrow, sits on the roof ledge holding his old phone with the cracked screen, a calm reflective half-smile on his face. A warm amber glow from the workshop window rises from below onto his face. Deep blue night, soft gold highlights, peaceful hopeful mood."
+    }
+  ],
+  "post_activities": [
+    {
+      "activity_type": "quiz",
+      "title_ar": "اختبر فهمك للقصة",
+      "instructions_ar": "اقرأ كل سؤال واختر الإجابة الأنسب.",
+      "content": {
+        "questions": [
+          {
+            "question": "ماذا طلب الأستاذ فؤاد من الحاج سالم؟",
+            "options": [
+              "أن يدفع ضعف الإيجار أو يُخلي الورشة نهاية الشهر",
+              "أن يبيع له الورشة بسعر رخيص",
+              "أن يُعلّم ابنه مهنة الساعات"
+            ],
+            "correct_answer": 0
+          },
+          {
+            "question": "ما الذي اكتشفه يوسف بعد أن حصل على الهاتف الجديد؟",
+            "options": [
+              "أن الهاتف لا يعمل جيدًا",
+              "أن الهاتف أطفأ رغباته كلها",
+              "أن الهاتف أيقظ قائمة جديدة من الرغبات"
+            ],
+            "correct_answer": 2
+          },
+          {
+            "question": "ما الذي أدرك يوسف أنه لم يكن يسمعه إلا بعد أن غاب؟",
+            "options": [
+              "صوت الجرس المدرسي",
+              "تكتكة ساعة الحائط الكبيرة",
+              "صوت أبيه عند الباب"
+            ],
+            "correct_answer": 1
+          },
+          {
+            "question": "كيف تقبّل الحاج سالم فكرة إعادة الهاتف؟",
+            "options": [
+              "فورًا وبسرور",
+              "رفضها حتى النهاية",
+              "وافق بعد أن عرضها يوسف كأجرة متدرّب لا كصدقة"
+            ],
+            "correct_answer": 2
+          },
+          {
+            "question": "ماذا كنتَ ستفعل لو كنتَ مكان يوسف؟",
+            "options": [
+              "كنتُ سأخبر أبي بالحقيقة وأعيد الهاتف رغم ما سيكلفني ذلك",
+              "كنتُ سأحتفظ بالهاتف وأبحث عن عمل بعد المدرسة لأساعد في الإيجار",
+              "كنتُ سأطلب من أبي أن يقرر وحده لأن المال ماله"
+            ],
+            "correct_answer": 0
+          }
+        ]
+      }
+    },
+    {
+      "activity_type": "crossword",
+      "title_ar": "كلمات متقاطعة",
+      "instructions_ar": "حلّ الكلمات المتقاطعة بالاستعانة بالتلميحات من أحداث القصة.",
+      "content": {
+        "words": [
+          { "word": "يوسف", "clue_ar": "بطل القصة الذي أعاد الهاتف" },
+          { "word": "ساعة", "clue_ar": "ما كان الحاج سالم يصلحه في ورشته" },
+          { "word": "الورشة", "clue_ar": "المكان الذي كاد يُغلق في القصة" },
+          { "word": "كريم", "clue_ar": "صديق يوسف الذي يملك كل شيء ويشعر بالوحدة" },
+          { "word": "الحنين", "clue_ar": "شعور يوسف تجاه لمعان هاتفه حين فكّر في إعادته" },
+          { "word": "الجد", "clue_ar": "من رفض أن يعيش على ثمن لعبة حفيده" }
+        ]
+      }
+    },
+    {
+      "activity_type": "riddle",
+      "title_ar": "ألغاز من القصة",
+      "instructions_ar": "اقرأ التلميحات من الأصعب إلى الأسهل، ثم اختر الجواب الصحيح.",
+      "content": {
+        "riddles": [
+          {
+            "emoji": "⏰",
+            "clues": [
+              "لا أملك قدمين لكنني أسير دون توقف",
+              "بِيع أكبر إخوتي من الحائط وبقي مسماره وحيدًا",
+              "لي عقربان وأدقّ تكتكة"
+            ],
+            "options": ["الساعة", "الهاتف", "المفتاح"],
+            "correct_answer": "الساعة"
+          },
+          {
+            "emoji": "📱",
+            "clues": [
+              "أنير وجه صاحبي لكنني أطفئ أمسياته",
+              "اشتهاني يوسف شهورًا ثم أُعدتُ إلى المتجر",
+              "كنتُ هدية ميلاده في علبة بيضاء"
+            ],
+            "options": ["الظرف", "الهاتف", "الكوب"],
+            "correct_answer": "الهاتف"
+          }
+        ]
+      }
+    },
+    {
+      "activity_type": "character_names",
+      "title_ar": "من ظهر في القصة؟",
+      "instructions_ar": "اختر الشخصيات التي ظهرت في القصة، واترك التي لم تظهر.",
+      "content": {
+        "characters": [
+          { "name": "يوسف", "emoji": "👦" },
+          { "name": "الحاج سالم", "emoji": "👴" },
+          { "name": "عادل", "emoji": "🚌" },
+          { "name": "كريم", "emoji": "🧑" },
+          { "name": "الأستاذ فؤاد", "emoji": "🔑" }
+        ],
+        "distractors": [
+          { "name": "سامر", "emoji": "🧒" },
+          { "name": "منى", "emoji": "👩‍🏫" }
+        ]
+      }
+    }
+  ],
+  "wisdom_keepsake": {
+    "quote_ar": "لا يظهر الغياب قيمة الأشياء، بل يكشف أننا لم نكن ننتبه إليها؛ فمن تعلّم أن يعدّ ما بين يديه قبل ما ينقصه، ربح فرحًا لا يشتريه شيء.",
+    "image_filename": "wisdom_keepsake.jpg",
+    "image_prompt": "Cinematic 3D illustration, atmospheric lighting, subtle colour palette, realistic proportions, mood over comedy. Close-up of an old brass pocket watch lying open on a worn wooden workbench beside a steaming glass of mint tea, tiny gears catching warm lamp light, a small wall clock softly blurred in the background. No people. Warm amber tones, shallow depth of field, quiet and reflective mood."
+  }
+}
